@@ -1,20 +1,23 @@
 const OK = "OK";
+const working = "working";
+const revisar = 'revisar'
+const revisando = 'revisando'
 const ordem = 
 `
 APRESENTAÇÃO:
 
     Seção 1 - introdução. 
-        ${REVISAR}
+        ${OK}
     Seção 2 - Configuração de Ambiente. 
-        ${REVISAR}
+        ${OK}
     Seção 3 - Iniciando com programação.
-        ${REVISAR}
+        ${revisando}
 Após a apresentação, agora é pra valer! Aqui começam os estudos:
 
 HTML E CSS:
 
     Seção 12 - Conceitos sobre Web
-        ${REVISAR}
+        ${revisar}
     Seção 13 - HTML
         ${working}
     Seção 14 - CSS
