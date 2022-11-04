@@ -11,13 +11,16 @@ APRESENTAÇÃO:
     Seção 2 - Configuração de Ambiente. 
         ${OK}
     Seção 3 - Iniciando com programação.
-        ${revisando}
+        ${OK}
 Após a apresentação, agora é pra valer! Aqui começam os estudos:
 
 HTML E CSS:
 
     Seção 12 - Conceitos sobre Web
-        ${revisar}
+        ${revisando}
+
+            199 ${revisar}
+
     Seção 13 - HTML
         ${working}
     Seção 14 - CSS
